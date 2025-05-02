@@ -1,0 +1,63 @@
+**1. SOAP Note**
+
+**S (Subjective):**  The client, Tony, reported being referred by his medical doctor due to concerns about depression and anxiety. 
+He initially denied feeling sad or depressed and stated he doesn't cry. However, he acknowledged experiencing anger, stating he feels 
+like "fighting someone," and a lack of energy impacting his enjoyment of basketball and his school performance (grades declining due 
+to lack of homework completion). He reported these feelings have lasted for approximately two months, coinciding with a recent breakup 
+with his girlfriend.  He described experiencing physical symptoms associated with his emotional state, including chest tightness and a 
+rapid heartbeat when thinking about the breakup. He admitted to having thoughts of self-harm.
+
+**O (Objective):** The client's affect, as derived from the transcript, is described as primarily irritable and potentially dysphoric 
+(based on statements regarding anger and self-harm ideation).  He reported physical symptoms of chest tightness and rapid heartbeat. 
+He expressed that he "doesn't really cry" and denied feeling hopeless or depressed, although these denials warrant further assessment. 
+While he reported occasional alcohol use ("a beer or two"), details about quantity and frequency were not provided.  He reported 
+decreased academic performance related to decreased motivation.  He disclosed suicidal ideation.
+
+**A (Assessment):** Based solely on the transcript, the client presents with symptoms consistent with a potential diagnosis of 
+Major Depressive Disorder, possibly with associated anxiety. Further assessment is necessary to rule out other diagnoses.  His 
+recent relationship breakup appears to be a significant contributing factor to his current distress. The disclosure of suicidal 
+ideation warrants immediate attention and thorough risk assessment. The client's presentation displays symptoms that are consistent
+with the initial concern of depression and anxiety.  His affect and behavior are concerning based on his admission to suicidal 
+ideation.
+
+**P (Plan):**  A comprehensive assessment of current symptoms and history is needed. This includes a detailed exploration of suicidal 
+ideation, including assessment of lethality, intent, and means.  A safety plan should be collaboratively developed and implemented. 
+Further assessment of potential diagnoses, including Major Depressive Disorder and Anxiety Disorders, is warranted. Exploring the 
+client's relationship history and coping mechanisms is indicated. Collaboration with the referring physician is recommended to 
+coordinate care and address any potential somatic symptoms.  Follow-up sessions should be scheduled to monitor progress, evaluate
+the effectiveness of interventions, and address any emerging concerns.  Referral to a psychiatrist for medication evaluation may be 
+considered.
+
+
+**2. Mental Status Examination (MSE)**
+
+* **Appearance:** Visuals not available from transcript.
+* **Behavior/Psychomotor Activity:**  Client's psychomotor activity is not explicitly described, but his statement that it's hard 
+to get up in the mornings suggests potential lethargy or decreased energy.
+* **Attitude Toward Interviewer:** Cooperative, although initially guarded in his initial responses to questions about mood.
+* **Mood:**  Reported as angry.  Subjective reporting of mood may be unreliable, based on his initial denials of sadness.
+* **Affect:** Irritable, constricted (limited range of emotion initially).  Potentially dysphoric (based on self-harm ideation).  
+Reactivity to discussion of breakup is significant.
+* **Speech:** Rate, volume, and clarity are not specified in the transcript.
+* **Thought Process:** Linear, goal-directed in response to direct questioning.
+* **Thought Content:**  Preoccupation with his recent breakup; suicidal ideation present.  "I don't even want to be alive."
+* **Perception:** No hallucinations reported.
+* **Cognition:** Not assessed in this session.
+* **Insight:**  Limited insight into the severity of his symptoms; minimized initial distress.
+* **Judgment:** Impaired judgment regarding his safety given the disclosure of suicidal ideation.
+
+
+**3. Risk Assessment**
+
+* **Suicidal Ideation (SI):** Present.  The client explicitly stated, "I don't even want to be alive."  Further assessment of 
+lethality, intent, and means is urgently required.
+* **Homicidal Ideation (HI):** Not indicated in transcript.
+* **Self-Harm Behavior:** Not indicated in transcript, although suicidal ideation is present.
+* **Other Risk Factors:**  Recent relationship breakup; anger; decreased energy; decreased school performance; alcohol use 
+(occasional).
+* **Protective Factors:**  Not explicitly identified in this transcript.
+* **Overall Risk Level:** High.  Suicidal ideation necessitates immediate intervention.
+* **Safety Plan Notes:** A safety plan was not developed in this session but is urgently needed.
+* **Note if therapist made recommendations for higher level of care, means restriction, or other explicit safety measures:**  
+Based on the client's disclosure of suicidal ideation, immediate assessment for higher levels of care and/or means restriction 
+should be considered.  The therapist should assess for potential need for hospitalization.

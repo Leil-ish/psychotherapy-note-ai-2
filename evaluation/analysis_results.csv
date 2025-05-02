@@ -1,0 +1,11 @@
+--- Statistics for risk_assessment_output.txt ---
+Metric                       | Value
+---------------------------------------------
+Total Word Count             | 718
+Total Sentence Count         | 54
+Average Sentence Length      | 12.9
+Flesch-Kincaid Grade         | 14.2
+Flesch Reading Ease          | 16.08
+Word Count SOAP              | 391
+Word Count MSE               | 170
+Word Count Risk              | 146
