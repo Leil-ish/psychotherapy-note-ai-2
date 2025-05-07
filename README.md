@@ -44,30 +44,27 @@ The project followed these key steps:
 * **Audio Processing:** `ffmpeg`
 * **Text Analysis:** `textstat` library
 
+
 ## Repository Structure
 
+```text
 ├── data/
-│   └── risk_assessment_transcript.txt # Cleaned transcript (Risk vignette)
-│   └── risk_assessment_audio.mp3    # (Optional) Downloaded audio file
-│
+│   ├── risk_assessment_transcript.txt  # Cleaned transcript (Risk vignette)
+│   └── risk_assessment_audio.mp3       # (Optional) Downloaded audio file
 ├── prompts/
-│   └── prompt_v2.txt                # Refined prompt text used
-│
+│   └── prompt_v2.txt                   # Refined prompt text used
 ├── scripts/
-│   ├── 01_generate_note.py          # Python script to call Gemini API
-│   └── 02_analyze_output.py         # Script for statistical analysis (single file mode)
-│
+│   ├── 01_generate_note.py             # Python script to call Gemini API
+│   └── 02_analyze_output.py            # Script for statistical analysis (single file mode)
 ├── outputs/
-│   ├── risk_assessment_output.txt   # Clinical note from Risk transcript + prompt v2
-│   └── analysis_results.csv         # Console output of stats for this note copied here
-│
+│   ├── risk_assessment_output.txt      # Clinical note from Risk transcript + prompt v2
+│   └── analysis_results.csv            # Console output of stats for this note copied here
 ├── evaluation/
-│   ├── evaluation_criteria.txt      # Definition of evaluation criteria
-│   └── evaluation_output.md         # Evaluation notes for risk_assessment_output.txt
-│
-├── .gitignore                       # Standard Python gitignore
-├── requirements.txt                 # Python package requirements
-└── README.md                        # This file
+│   ├── evaluation_criteria.txt         # Definition of evaluation criteria
+│   └── evaluation_output.md            # Evaluation notes for risk_assessment_output.txt
+├── .gitignore                          # Standard Python gitignore
+├── requirements.txt                    # Python package requirements
+└── README.md                           # This file
 
 
 ## Setup and Usage
