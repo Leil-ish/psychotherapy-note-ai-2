@@ -87,4 +87,3 @@ The project followed these key steps:
 This supplemental test case successfully validated the refined prompt (`prompt_v2.txt`) on a challenging clinical scenario focused on suicide risk assessment. The LLM, guided by the refined prompt, accurately extracted and presented the critical safety information, including direct client quotes about suicidal ideation. The generated Risk Assessment section was clinically appropriate, highlighting the high-risk level and the need for immediate intervention.
 
 The prompt's constraints against visual hallucination were also effective with this new transcript. This demonstrates the robustness and improved accuracy of the refined prompt in handling sensitive and critical clinical information based solely on transcript data.
-And here's the updated content for requirements.txt for both projects (it will be the same):
